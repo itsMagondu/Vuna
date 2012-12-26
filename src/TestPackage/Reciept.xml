@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : Reciept.xml
+    Created on : July 17, 2012, 11:20 AM
+    Author     : Magondu
+    Description:
+        Purpose of the document follows.
+-->
+
+<root>
+    <Company>
+        <Name> Vuna Feeds Limited </Name>
+        <Box> P.O Box 123</Box>
+        
+    </Company>>
+    
+    <recieptNo>
+        <InvoiceNo>Variable</InvoiceNo>
+    </recieptNo>
+    
+    <customer>
+        <Name> Customer Name</Name>
+        <contact> Customer contact </contact>
+        <tel> Number </tel>
+    </customer>
+
+</root>
